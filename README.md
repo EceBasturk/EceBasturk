@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EceBasturk
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, SpringBoot Framework, FullStack
+- 🌱 I’m currently learning .NET Core
+
 
 <!---
 EceBasturk/EceBasturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
