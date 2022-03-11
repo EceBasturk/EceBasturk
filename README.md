@@ -2,7 +2,7 @@
 
 **👀 I’m interested in Java, SpringBoot Framework, FullStack**
 
-**🌱 I’m currently learning .NET Core**
+**🌱 I’m currently learning Flutter**
 
 
 <!---
