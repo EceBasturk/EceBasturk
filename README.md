@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @EceBasturk
 
-**👀 I’m interested in Java, SpringBoot Framework, FullStack**
+**👀 I’m interested in Java, Spring Framework, FullStack**
 
-**🌱 I’m currently learning Flutter**
+**🌱 I’m currently learning Spring6 and React**
 
 
 <!---
